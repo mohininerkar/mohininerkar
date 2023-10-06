@@ -1,3 +1,4 @@
+![logo](https://github.com/mohininerkar/mohininerkar/blob/main/Simple%20Work%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohini Nerkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
