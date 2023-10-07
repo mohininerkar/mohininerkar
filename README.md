@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/mohininerkar/mohininerkar/blob/main/Blue%20And%20White%20Modern%20Minimal%20Business%20Channel%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Mohini Nerkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
