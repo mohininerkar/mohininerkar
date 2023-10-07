@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohini Nerkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=" https://img2html.com/upload?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1vaGluaW5lcmthcjIyQGdtYWlsLmNvbSIsImZpbGVuYW1lIjoiMC5naWYiLCJleHAiOjIzMjczNDU5NDR9.S1jWn7AYaYIzhRFpzuO77zT7dCUqA1HUN2Qpucl6fro
-">
+<img align="right" alt="coding" width="400" src=" ![image](https://github.com/mohininerkar/mohininerkar/assets/131347247/f053ac82-3fd5-460d-b573-6e1183d31f95)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohininerkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohininerkar" /> </p>
 
