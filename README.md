@@ -1,8 +1,6 @@
 ![logo](https://github.com/mohininerkar/mohininerkar/blob/main/Purple%20Colorful%20Tech'22%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Mohini Nerkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-
-<img align="right" alt="coding" width="400" src=" ![image](https://github.com/mohininerkar/mohininerkar/assets/131347247/f053ac82-3fd5-460d-b573-6e1183d31f95)">
+<h3 align="center">A passionate Software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohininerkar&label=Profile%20views&color=0e75b6&style=flat" alt="mohininerkar" /> </p>
 
